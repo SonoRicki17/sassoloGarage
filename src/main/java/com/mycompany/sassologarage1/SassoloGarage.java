@@ -33,6 +33,8 @@ public class SassoloGarage {
             }
             
             case 1 -> {
+
+                System.out.println("non finzia");
                 
             }
             
