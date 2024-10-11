@@ -19,7 +19,7 @@ public class SassoloGarage {
         System.out.println("2 - Emissione del veicolo");
         System.out.println("3 - Visualizzazione dei posti nel garage");
         System.out.println("4 - Visualizza le entrate e le uscite medie");
-        System.out.println("5 - Per favore funzioni");
+        System.out.println("5 - Per favore funziona");
         
         System.out.print("\nScegli l'opzione: ");
         scelta = Integer.parseInt(input.nextLine());
